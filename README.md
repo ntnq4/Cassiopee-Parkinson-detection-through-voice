@@ -15,6 +15,8 @@ Ainsi, il se compose d'une partie traitement la classification des données grâ
 
 Cette partie repose sur l'architecture neuronnale SincNet proposée par Mirco Ravanelli et Yoshua Bengio [1] [2].
 
+<img src="https://github.com/mravanelli/SincNet/blob/master/SincNet.png" width="400" img align="right">
+
 ### Prérequis
 
 - Linux
@@ -23,7 +25,6 @@ Cette partie repose sur l'architecture neuronnale SincNet proposée par Mirco Ra
 - pysoundfile (``` conda install -c conda-forge pysoundfile```)
 - l'utilisation d'un environnement anaconda est conseillée.
 
-<img src="https://github.com/mravanelli/SincNet/blob/master/SincNet.png" width="400" img align="right">
 
 ### Utilisation de SincNet pour la classification du genre avec TIMIT
 
