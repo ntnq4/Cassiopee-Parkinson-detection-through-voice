@@ -71,4 +71,6 @@ L'entraînement peut prendre du temps à converger selon la rapidité de votre c
 
 [2] SincNet original code written in PyTorch by the autor (https://github.com/mravanelli/SincNet)
 
-[3] [Voice characteristics from isolated rapid eye movement sleep behavior disorder to early Parkinson's disease](https://www.prd-journal.com/action/showPdf?pii=S1353-8020%2822%2900003-7)
+[3] [Snore Sound Classification Using Image-Based Deep Spectrum Features](https://www.researchgate.net/publication/318987452_Snore_Sound_Classification_Using_Image-Based_Deep_Spectrum_Features)
+
+[4] [Voice characteristics from isolated rapid eye movement sleep behavior disorder to early Parkinson's disease](https://www.prd-journal.com/action/showPdf?pii=S1353-8020%2822%2900003-7)
