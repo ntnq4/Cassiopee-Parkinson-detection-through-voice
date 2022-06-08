@@ -50,7 +50,7 @@ où:
  4. *[class]*, qui spécifient la partie class
  5. *[optimization]*, qui indique les principaux hyperparamètres utilisés pour entraîner l'architecture.
 
-**Attention :** ne pas oublier de modifier le paramètre **class-lay** conformément au nombre de classe que l'on attend. Ici, *class_lay=462*.
+**Attention :** ne pas oublier de modifier le paramètre **class-lay** conformément au nombre de classe que l'on attend. Ici, *class_lay=2*.
 
 - Une fois le fichier cfg configuré, vous pouvez lancer les expériences d'identification du haut-parleur en utilisant la commande suivante :
 
