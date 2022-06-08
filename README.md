@@ -60,6 +60,10 @@ python speaker_id.py --cfg=cfg/SincNet_TMT.cfg
 
 L'entraînement peut prendre du temps à converger selon la rapidité de votre carte graphique (GPU).
 
+**3. Résultats.**
+
+### utilisation de SincNet pour la classification des Parkinsoniens.**
+
 
 
 ## Références
