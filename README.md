@@ -35,6 +35,7 @@ Cette étape est nécessaire pour stocker une version de TIMIT dans laquelle les
 ``
 python TIMIT_preparation.py $TIMIT_FOLDER $OUTPUT_FOLDER data_lists/TIMIT_all.scp
 ``
+
 où:
 - *$TIMIT_FOLDER*  est le dossier contenant la base TIMIT originelle
 - *$OUTPUT_FOLDER* est le dossier où sera stockée la version normalisée de la base de donnée
@@ -56,6 +57,7 @@ où:
 ``
 python speaker_id.py --cfg=cfg/SincNet_TMT.cfg
 ``
+
 L'entraînement peut prendre du temps à converger selon la rapidité de votre carte graphique (GPU).
 
 
