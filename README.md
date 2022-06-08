@@ -67,9 +67,9 @@ L'entraînement peut prendre du temps à converger selon la rapidité de votre c
 
 
 ## Références
-[1]  Mirco Ravanelli, Yoshua Bengio, “Speaker Recognition from raw waveform with SincNet” [Arxiv](http://arxiv.org/abs/1808.00158)
+[1] [Mirco Ravanelli, Yoshua Bengio, “Speaker Recognition from raw waveform with SincNet”](http://arxiv.org/abs/1808.00158)
 
-[2] SincNet original code written in PyTorch by the autor (https://github.com/mravanelli/SincNet)
+[2] [SincNet original code](https://github.com/mravanelli/SincNet) written in PyTorch by the autor
 
 [3] [Snore Sound Classification Using Image-Based Deep Spectrum Features](https://www.researchgate.net/publication/318987452_Snore_Sound_Classification_Using_Image-Based_Deep_Spectrum_Features)
 
