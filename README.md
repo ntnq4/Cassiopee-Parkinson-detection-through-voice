@@ -62,7 +62,7 @@ L'entraînement peut prendre du temps à converger selon la rapidité de votre c
 
 **3. Résultats.**
 
-### utilisation de SincNet pour la classification des Parkinsoniens.**
+### utilisation de SincNet pour la classification des Parkinsoniens
 
 
 
@@ -70,3 +70,5 @@ L'entraînement peut prendre du temps à converger selon la rapidité de votre c
 [1]  Mirco Ravanelli, Yoshua Bengio, “Speaker Recognition from raw waveform with SincNet” [Arxiv](http://arxiv.org/abs/1808.00158)
 
 [2] SincNet original code written in PyTorch by the autor (https://github.com/mravanelli/SincNet)
+
+[3] [Voice characteristics from isolated rapid eye movement sleep behavior disorder to early Parkinson's disease](https://www.prd-journal.com/action/showPdf?pii=S1353-8020%2822%2900003-7)
