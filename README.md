@@ -11,6 +11,7 @@ Le but de notre projet est alors d’étudier les changements vocaux dans la mal
 Le projet est divisé en trois parties distintes ayant vocation plus tard à fusionner.
 Ainsi, il se compose d'une partie traitement la classification des données grâce à des sepctrogrammes et un réseau de neurones convolutifs (CNN), d'une classification des données brutes via l'architecture neuronnale SincNet permettant de traiter directement l'audio brut sans calcul de paramètres vocaux globaux et d'un travail de traitement des données audio.
 
+
 ## Classification à partir d'une forme d'onde brute, SincNet
 
 Cette partie repose sur l'architecture neuronnale SincNet proposée par Mirco Ravanelli et Yoshua Bengio [1] [2].
@@ -65,6 +66,15 @@ L'entraînement peut prendre du temps à converger selon la rapidité de votre c
 ### utilisation de SincNet pour la classification des Parkinsoniens
 
 
+## Traitement des donnés brutes
+
+Le code associé à cette partie permet d'obtenir le temps moyen mis par un patient pour prononcer chaque syllabe.
+
+Dans la totalité des enregistrements écoutés, le patient ne fait jamais des pauses.
+
+Pour utiliser le code, il suffit  donc de rentrer le nom du fichier en argument et éventuellement de modifier le chemin d'accès à ce fichier dans le coeur du code.
+
+Vous trouverez également un tutoriel d'utilisation de Praat réalisé pendant l'attente de l'accès aux données.
 
 ## Références
 [1] [Mirco Ravanelli, Yoshua Bengio, “Speaker Recognition from raw waveform with SincNet”](http://arxiv.org/abs/1808.00158)
