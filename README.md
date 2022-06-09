@@ -61,10 +61,19 @@ python speaker_id.py --cfg=cfg/SincNet_TMT.cfg
 
 L'entraînement peut prendre du temps à converger selon la rapidité de votre carte graphique (GPU).
 
-**3. Résultats.**
-
 ### utilisation de SincNet pour la classification des Parkinsoniens
 
+Pour entrainer le modèle, il suffit d'utiliser la commande python :
+
+``
+python speaker_id.py --cfg=cfg/SincNet_Iceberg_14.cfg
+``
+
+Une fois l'entraînement effectué, il esy possible de réaliser des tests sur les données d'entraînement via :
+
+``
+python tst.py --cfg=cfg/SincNet_Iceberg_14.cfg
+``
 
 ## Traitement des donnés brutes
 
